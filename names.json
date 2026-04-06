@@ -1,14 +1,1 @@
-{
-  "surnames": [
-    "EINSTEIN",
-    "TESLA",
-    "CURIE",
-    "DARWIN",
-    "NEWTON",
-    "TURING",
-    "HAWKING",
-    "DA_VINCI",
-    "GALILEI",
-    "LOVELACE"
-  ]
-}
+[{"length": 8, "hash": "4c4d384f1a9d0a3a89406aa2317a71922076f065279e494fa8446e7e890d2410", "hint": "E"}, {"length": 11, "hash": "be0eea6028c835bb8c0001a383de6375a819e3f18afc0decc59a75f793015b71", "hint": "A"}, {"length": 10, "hash": "7db61a59ed1a4b6140188bb0d5be8137f9cc7d32425ddf5659760f272046f413", "hint": "A"}, {"length": 5, "hash": "da610f5ca74010e7d8a97d330681d7a5c191a9aeaea4856e45dd5581b565080b", "hint": "T"}]
