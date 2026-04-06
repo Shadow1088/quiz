@@ -1,7 +1,11 @@
+from datetime import date, datetime
+
 class Quiz:
     def __init__(self, guess:str, length:int) -> None:
         self.guess = guess
         self.length = length
+        self.score = 0
+        self.session_start = datetime()
 
     def __str__(self) -> str:
         return "Handles guess change, string checking, score"
