@@ -1,7 +1,8 @@
 **Overview**
 
 This program is a Python-based implementation of a word-guessing game using the Pygame library. It challenges the user to identify a hidden surname through a series of logical deductions.
-Core Logic
+
+**Core Logic**
 
 The program operates on a feedback loop based on user input:
 
